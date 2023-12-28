@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.scholar.scholarly_app",
+    "sha256_cert_fingerprints":
+    ["D0:8D:77:E3:FC:DF:D0:B4:BD:0A:19:D9:23:61:D9:78:CF:6D:9C:D8:C0:BE:B4:98:97:43:5F:5B:11:22:DA:6E"]
+  }
+}]
