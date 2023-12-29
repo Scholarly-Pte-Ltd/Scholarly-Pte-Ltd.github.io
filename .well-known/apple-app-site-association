@@ -1,0 +1,14 @@
+# Query: 
+# ContextLines: 1
+
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "XXKRGTBSQK.com.scholarly",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
