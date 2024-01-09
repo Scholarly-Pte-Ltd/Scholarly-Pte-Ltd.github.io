@@ -20,9 +20,9 @@
 
         // Redirect based on the device
         if (isiPhone()) {
-            window.location.href = "https://apps.apple.com/sg/app/scholarly-find-a-tutor/id6446421051"; // Replace with the actual URL for iPhones
+            window.location.href = "itms-apps://apps.apple.com/sg/app/scholarly-find-a-tutor/id6446421051"; // Open App Store
         } else if (isAndroid()) {
-            window.location.href = "https://play.google.com/store/apps/details?hl=en-SG&id=com.scholar.scholarly_app"; // Replace with the actual URL for Android
+            window.location.href = "market://details?id=com.scholar.scholarly_app"; // Open Play Store
         } else {
             // Redirect to a default page or handle other cases
             window.location.href = "https://www.scholarly.sg/";
@@ -30,4 +30,3 @@
     </script>
 </body>
 </html>
-
